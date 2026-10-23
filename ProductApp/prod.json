@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Python Programming",
+    "category": "Computer Course",
+  },
+  {
+    "id": 2,
+    "name": "Generative AI",
+    "category": "Computer Course"
+  },
+  {
+    "id": 3,
+    "name": "Full Stack Development",
+    "category": "Computer Course"
+  }
+]
